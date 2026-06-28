@@ -11,7 +11,7 @@ import yt_dlp
 import asyncio
 from collections import deque
 
-TOKEN = "MTUyMDU4MDk0ODkyNjY2NDgwNA.GgJh2G.nToWEog-s5Tp9bfDQCnnSNk-tztFucztSPfoIg"
+TOKEN = "MTUyMDU4MDk0ODkyNjY2NDgwNA.G9o8NO.ABE0f3pN3RUD2-4gsIYF68YnqvvhbKp0qA74z4"
 
 YDL_OPTIONS = {
     "format": "bestaudio/best",
